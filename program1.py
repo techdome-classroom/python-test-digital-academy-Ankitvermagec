@@ -20,7 +20,7 @@ obj=Solution()
 
 print(obj.isValid("()"))      
 print(obj.isValid("()[]{}"))   
-print(obj.isValid("(]"))       
+      
 
 
   
